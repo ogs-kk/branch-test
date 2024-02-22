@@ -1,1 +1,3 @@
-Lots of code added to allow users to log in
+Lots of code added to allow users to log in.
+
+Login was broken, this fixes it.
