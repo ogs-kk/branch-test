@@ -1,1 +1,1 @@
-Edit the user
+Edit the user, and allow it to be deleted
