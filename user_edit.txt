@@ -1,1 +1,3 @@
 Edit the user, and allow it to be deleted
+
+Add user roles.
