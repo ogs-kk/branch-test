@@ -1,3 +1,5 @@
 Edit the user, and allow it to be deleted
 
+Prevent admins being edited.
+
 Add user roles.
